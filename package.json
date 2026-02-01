@@ -1,0 +1,8 @@
+{
+  "name": "okey-hile-twilio-backend",
+  "version": "1.0.0",
+  "type": "module",
+  "dependencies": {
+    "twilio": "^5.3.0"
+  }
+}
